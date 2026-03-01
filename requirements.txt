@@ -1,0 +1,17 @@
+python-telegram-bot
+requests
+python-dotenv
+PyPDF2
+python-docx
+sympy
+scipy
+numpy
+pytesseract
+arabic-reshaper
+python-bidi
+Pillow
+flask
+openai
+beautifulsoup4
+PyYAML
+telebot
